@@ -24,9 +24,4 @@ Git · GitHub · Docker · Linux
 - Software development with C#, Python and C/C++
 - Hardware and PCB projects
 - Automation and IoT projects
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnikWeber&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikWeber&layout=compact&theme=transparent)
+- 
