@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Philipp Weber
+# 👋 Hi, I'm Philipp aka TechnikWeber
 
 💻 **Electronics Technician & Developer** with a focus on embedded systems, software development and electronics.
 
@@ -12,7 +12,7 @@ C · C++ · C# · Python
 
 **Embedded & Electronics**
 
-Arduino · Embedded Systems · Electronics · PCB Design
+Embedded Systems · Electronics · PCB Design · Arduino
 
 **Tools & Technologies**
 
@@ -20,7 +20,7 @@ Git · GitHub · Docker · Linux
 
 ## 🚀 Currently Working On
 
-- Embedded systems and electronics
+- Embedded systems and electronics for medical and industrial applications
 - Software development with C#, Python and C/C++
 - Hardware and PCB projects
 - Automation and IoT projects
