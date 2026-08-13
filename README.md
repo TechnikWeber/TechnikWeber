@@ -24,4 +24,3 @@ Git · GitHub · Docker · Linux
 - Software development with C#, Python and C/C++
 - Hardware and PCB projects
 - Automation and IoT projects
-- 
