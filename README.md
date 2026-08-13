@@ -1,0 +1,32 @@
+# 👋 Hi, I'm Philipp Weber
+
+💻 **Electronics Technician & Developer** with a focus on embedded systems, software development and electronics.
+
+I enjoy building things from hardware and firmware to full software applications.
+
+## 💻 Tech Stack
+
+**Languages & Development**
+
+C · C++ · C# · Python
+
+**Embedded & Electronics**
+
+Arduino · Embedded Systems · Electronics · PCB Design
+
+**Tools & Technologies**
+
+Git · GitHub · Docker · Linux
+
+## 🚀 Currently Working On
+
+- Embedded systems and electronics
+- Software development with C#, Python and C/C++
+- Hardware and PCB projects
+- Automation and IoT projects
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechnikWeber&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnikWeber&layout=compact&theme=transparent)
