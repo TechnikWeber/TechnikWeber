@@ -4,6 +4,8 @@
 
 I enjoy building things from hardware and firmware to full software applications.
 
+📻 Licensed radio amateur — callsign **DL4PW**.
+
 ---
 
 ### ✍️ Read my blog → **[Philipps Blog](https://technikweber.github.io)**
@@ -20,7 +22,7 @@ C · C++ · C# · Python
 
 **Embedded & Electronics**
 
-Embedded Systems · Electronics · PCB Design · Arduino
+Embedded Systems · Electronics · PCB Design · Arduino · Amateur Radio
 
 **Tools & Technologies**
 
