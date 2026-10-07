@@ -14,6 +14,13 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 
 ---
 
+### 🧪 Two things to try in your browser
+
+- **[Genstrio](https://technikweber.github.io/Genstrio/)** — parametric generators for 3D printing: enclosures, gears, adapters and more ([source](https://github.com/TechnikWeber/Genstrio))
+- **[LinuxKompass](https://technikweber.github.io/LinuxKompass/)** — a few questions, and it tells you which Linux distribution fits you ([source](https://github.com/TechnikWeber/LinuxKompass))
+
+---
+
 ## 💻 Tech Stack
 
 **Languages & Development**
