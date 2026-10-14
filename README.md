@@ -16,7 +16,7 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 
 ### 🧪 Four things to try in your browser
 
-- **[Tempo6](https://technikweber.github.io/Tempo6/)** — a racing game with power wheelchairs and mobility scooters: get through the rehab course, take the throttle off, tune up to 75 km/h (also on a phone held sideways)
+- **[Tempo6](https://technikweber.github.io/Tempo6/)** — a racing game with power wheelchairs and mobility scooters: get through the rehab course, take the throttle off, tune up to 75 km/h (also on a phone held sideways) ([source](https://github.com/TechnikWeber/Tempo6))
 - **[Genstrio](https://technikweber.github.io/Genstrio/)** — parametric generators for 3D printing: enclosures, gears, adapters and more ([source](https://github.com/TechnikWeber/Genstrio))
 - **[LinuxKompass](https://technikweber.github.io/LinuxKompass/)** — a few questions, and it tells you which Linux distribution fits you ([source](https://github.com/TechnikWeber/LinuxKompass))
 - **[JobKompass](https://technikweber.github.io/JobKompass/)** — career orientation for young people choosing a first job or training path ([source](https://github.com/TechnikWeber/JobKompass))
