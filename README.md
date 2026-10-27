@@ -8,7 +8,7 @@ I enjoy building things from hardware and firmware to full software applications
 
 ---
 
-### ✍️ Read my blog → **[Philipps Blog](https://technikweber.github.io)**
+### ✍️ Read my blog (german) → **[Philipps Blog](https://technikweber.github.io)**
 
 Projects, ideas and everything that's currently on my mind — from tech and electronics to whatever else I feel like writing about.
 
