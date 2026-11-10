@@ -14,16 +14,6 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 
 ---
 
-### 🧪 Five things to try in your browser
-
-- **[Computerfuchs](https://technikweber.github.io/Computerfuchs/)** — a learning computer for kids aged 5 to 15: a playful desktop that grows with the child, with a mouse course and maths, no sign-up ([source](https://github.com/TechnikWeber/Computerfuchs))
-- **[Tempo6](https://technikweber.github.io/Tempo6/)** — a racing game with power wheelchairs and mobility scooters: get through the rehab course, take the throttle off, tune up to 75 km/h (also on a phone held sideways) ([source](https://github.com/TechnikWeber/Tempo6))
-- **[Genstrio](https://technikweber.github.io/Genstrio/)** — parametric generators for 3D printing: enclosures, gears, adapters and more ([source](https://github.com/TechnikWeber/Genstrio))
-- **[LinuxKompass](https://technikweber.github.io/LinuxKompass/)** — a few questions, and it tells you which Linux distribution fits you ([source](https://github.com/TechnikWeber/LinuxKompass))
-- **[JobKompass](https://technikweber.github.io/JobKompass/)** — career orientation for young people choosing a first job or training path ([source](https://github.com/TechnikWeber/JobKompass))
-
----
-
 ## 🗂️ Projects by area
 
 #### 🌐 Browser apps and games
@@ -37,16 +27,20 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 - **[percolation-theory-simulator](https://github.com/TechnikWeber/percolation-theory-simulator)** — zombie apocalypse as a percolation phase transition · [try it](https://technikweber.github.io/percolation-theory-simulator/)
 
 #### 📡 Radio, remote control and IoT
+- **[AXLink](https://github.com/TechnikWeber/AXLink)** — IPv4 over AX.25 packet radio with KISS radios such as the Quansheng UV-K5
+- **[AXLink-TNC](https://github.com/TechnikWeber/AXLink-TNC)** — KISS TNC app for the F4HWN firmware on the UV-K1/UV-K5 V3, built for IP over AX.25
+- **[uv-k1-k5v3-aprs-firmware](https://github.com/TechnikWeber/uv-k1-k5v3-aprs-firmware)** — fork: APRS messenger firmware for the Quansheng UV-K1/UV-K5 V3 · [web flasher](https://technikweber.github.io/uv-k1-k5v3-aprs-firmware/)
+- **[EtherDigits](https://github.com/TechnikWeber/EtherDigits)** — run your own numbers station, with a one-time pad tool
 - **[YonderRC](https://github.com/TechnikWeber/YonderRC)** — RC cars, boats, planes and drones over LTE/Wi-Fi with FPV video and telemetry
 - **[YonderGate](https://github.com/TechnikWeber/YonderGate)** — off-grid site gateway on a Raspberry Pi: LTE, Tailscale, sensors
 - **[RadioKiosk](https://github.com/TechnikWeber/RadioKiosk)** — kitchen radio, picture frame and world receiver with an RTL-SDR
-- **[LoRaITP](https://github.com/TechnikWeber/LoRaITP)** — send a photo 30 km over LoRa, once a day, on a battery
+- **[LoRaITP](https://github.com/TechnikWeber/LoRaITP)** — send a photo 30 km over LoRa, once a day, on a battery · [web flasher](https://technikweber.github.io/LoRaITP/flash/)
 - **[StegoComm](https://github.com/TechnikWeber/StegoComm)** — proof-of-concept covert messaging channel with AES-256-GCM
-- **[esp-drone](https://github.com/TechnikWeber/esp-drone)** — ESP32 drone with browser control and staged failsafe
+- **[esp-drone](https://github.com/TechnikWeber/esp-drone)** — ESP32 drone with browser control and staged failsafe · [web flasher](https://technikweber.github.io/esp-drone/)
 
 #### 🔧 Hardware and embedded
 - **[DiceCore](https://github.com/TechnikWeber/DiceCore)** — reads real dice with a camera on a Raspberry Pi
-- **[IRescue](https://github.com/TechnikWeber/IRescue)** — brute-force a lost IR remote with an ESP32 · [try it](https://technikweber.github.io/IRescue/)
+- **[IRescue](https://github.com/TechnikWeber/IRescue)** — brute-force a lost IR remote with an ESP32 · [web flasher](https://technikweber.github.io/IRescue/)
 - **[convertible-keyboard-pcb](https://github.com/TechnikWeber/convertible-keyboard-pcb)** — full-size keyboard PCB with a snap-off numpad
 - **[custom-touchgfx-STM32F746IG](https://github.com/TechnikWeber/custom-touchgfx-STM32F746IG)** — custom TouchGFX board with an STM32F746IG
 - **[STM32G071CBT6-ILI9341](https://github.com/TechnikWeber/STM32G071CBT6-ILI9341)** — STM32G071 board for an ILI9341 display
@@ -65,13 +59,19 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 - **[liion-cell-calculator](https://github.com/TechnikWeber/liion-cell-calculator)** — Li-ion cell test calculator · [try it](https://technikweber.github.io/liion-cell-calculator/)
 - **[lantronix-network-tool](https://github.com/TechnikWeber/lantronix-network-tool)** — find Lantronix devices on the network
 
-#### 🐧 Linux desktop
+#### 🐧 Linux desktop and servers
 - **[bible-verse-widget](https://github.com/TechnikWeber/bible-verse-widget)** — a daily Bible verse for KDE Plasma and Cinnamon
 - **[linux-desktop-destroyer](https://github.com/TechnikWeber/linux-desktop-destroyer)** — the 90s Desktop Destroyer classic for Linux
 - **[sane-linux-scanner-app](https://github.com/TechnikWeber/sane-linux-scanner-app)** — scan with any SANE scanner straight into Paperless-ngx
+- **[minecraft-server-guide](https://github.com/TechnikWeber/minecraft-server-guide)** — Minecraft Bedrock and Java+Bedrock crossplay servers on Debian/Ubuntu, with updates, backups and a kids' profile (in German)
 
 #### 📦 Odds and ends
 - **[snippets](https://github.com/TechnikWeber/snippets)** — short scripts and small examples
+
+#### 🗄️ Archived (superseded by YonderRC)
+- **[LTE-TCP-FPV-RC-Car](https://github.com/TechnikWeber/LTE-TCP-FPV-RC-Car)** — FPV RC car driven over the internet with a Raspberry Pi
+- **[TCPRC-server](https://github.com/TechnikWeber/TCPRC-server)** — Raspberry Pi receiver: controller input over TCP to PWM
+- **[TCPRC-client](https://github.com/TechnikWeber/TCPRC-client)** — Windows transmitter: gamepad input over TCP
 
 ---
 
@@ -79,7 +79,7 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 
 **Languages & Development**
 
-C · C++ · C# · Python
+C · C++ · C# · Python · TypeScript · Go
 
 **Embedded & Electronics**
 
