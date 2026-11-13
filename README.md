@@ -45,7 +45,7 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 - **[custom-touchgfx-STM32F746IG](https://github.com/TechnikWeber/custom-touchgfx-STM32F746IG)** — custom TouchGFX board with an STM32F746IG
 - **[STM32G071CBT6-ILI9341](https://github.com/TechnikWeber/STM32G071CBT6-ILI9341)** — STM32G071 board for an ILI9341 display
 - **[ATMEGA328PB-minimal](https://github.com/TechnikWeber/ATMEGA328PB-minimal)** — minimal ATmega328PB board
-- **[ATTINY13A-fake-alarm-device](https://github.com/TechnikWeber/ATTINY13A-fake-alarm-device)** — fake alarm light that runs for years on a coin cell
+- **[ATTINY13A-fake-alarm-device](https://github.com/TechnikWeber/ATTINY13A-fake-alarm-device)** — fake alarm light that runs for years on a coin cell · [web flasher](https://technikweber.github.io/ATTINY13A-fake-alarm-device/)
 - **[STDC14-to-TC2030-IDC](https://github.com/TechnikWeber/STDC14-to-TC2030-IDC)** — STLINK-V3 to Tag-Connect adapter
 - **[Neopixel-WS2812-STM32](https://github.com/TechnikWeber/Neopixel-WS2812-STM32)** — WS2812 LED strip on an STM32 with DMA
 - **[myKiCadLibrary](https://github.com/TechnikWeber/myKiCadLibrary)** — my KiCad symbols and footprints
@@ -60,6 +60,9 @@ Projects, ideas and everything that's currently on my mind — from tech and ele
 - **[lantronix-network-tool](https://github.com/TechnikWeber/lantronix-network-tool)** — find Lantronix devices on the network
 
 #### 🐧 Linux desktop and servers
+- **[DnfSetup](https://github.com/TechnikWeber/DnfSetup)** — set up Fedora after installation from one window: codecs, drivers, Flathub
+- **[DnfPilot](https://github.com/TechnikWeber/DnfPilot)** — update Fedora with dnf and Flatpak from a small window with a repair menu
+- **[DCIMDock](https://github.com/TechnikWeber/DCIMDock)** — copy iPhone photos and videos to the PC over USB, only new files, never overwriting
 - **[bible-verse-widget](https://github.com/TechnikWeber/bible-verse-widget)** — a daily Bible verse for KDE Plasma and Cinnamon
 - **[linux-desktop-destroyer](https://github.com/TechnikWeber/linux-desktop-destroyer)** — the 90s Desktop Destroyer classic for Linux
 - **[sane-linux-scanner-app](https://github.com/TechnikWeber/sane-linux-scanner-app)** — scan with any SANE scanner straight into Paperless-ngx
